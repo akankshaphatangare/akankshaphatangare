@@ -22,21 +22,18 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/akanksha-phatangare/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/54509629/135730249-efac72bc-a6e2-4d31-a693-864bbbc2afac.gif" alt="Akanksha's linkdin" height="50" width="50" /></a>
 
 ### Skills:
-<div>
-<img align="left" alt="Data Science" width="33px" />
-<img align="left" alt="Python" width="33px" />
-<img align="left" alt="Pandas" width="33px" />
-<img align="left" alt="NumPy" width="33px" />
-<img align="left" alt="Seaborn" width="33px" />
-<img align="left" alt="Matplotlib" width="33px" />
-<img align="left" alt="Statistics" width="33px" />
-<img align="left" alt="Data Visualization" width="33px" />
-<img align="left" alt="Machine Learning" width="33px" />
-<img align="left" alt="Deep Learning" width="33px" />
-<img align="left" alt="Tableau" width="33px" />
-<img align="left" alt="Git & Github" width="33px" />
-</div>
-
+- Data Science
+- Python
+- Pandas
+- Numpy
+- Seaborn
+- MatPlotLib
+- Statistics
+- Data Visualisation
+- Machine Learning
+- Deep Learning
+- Tableu
+- Git & Github
 <br>
 <br>
     
